@@ -1,1 +1,1 @@
-Este es un ejemplo de como clonar un repositorio desde github
+otro ejemplo de clonar y enviar datos desde pc
